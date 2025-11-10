@@ -46,6 +46,7 @@ This project demonstrates **end-to-end Java Full Stack development** using **JSP
 ---
 
 ## 📂 Project Structure  
+```bash
 AxisBank-Enterprise/
 │
 ├── src/com/Banking/
