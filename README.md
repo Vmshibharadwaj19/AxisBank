@@ -49,38 +49,40 @@ This project demonstrates **end-to-end Java Full Stack development** using **JSP
 AxisBank-Enterprise/
 │
 ├── src/com/Banking/
-│ ├── Accounts.java
-│ ├── Customers.java
-│ ├── Transactions.java
-│ ├── Users.java
-│ ├── DbConnection.java
-│ ├── LoginServlet.java
-│ ├── CustomerServlet.java
-│ ├── EditCustomerServlet.java
-│ ├── CreateNewCustomer.java
-│ ├── DeleteCustomerServlet.java
-│ ├── DepositServlet.java
-│ ├── WithdrawServlet.java
-│ ├── StatementServlet.java
-│ ├── EditProfile.java
-│ ├── EditPassword.java
-│ ├── LogoutServlet.java
+│   ├── Accounts.java
+│   ├── Customers.java
+│   ├── Transactions.java
+│   ├── Users.java
+│   ├── DbConnection.java
+│   ├── LoginServlet.java
+│   ├── CustomerServlet.java
+│   ├── EditCustomerServlet.java
+│   ├── CreateNewCustomer.java
+│   ├── DeleteCustomerServlet.java
+│   ├── DepositServlet.java
+│   ├── WithdrawServlet.java
+│   ├── StatementServlet.java
+│   ├── EditProfile.java
+│   ├── EditPassword.java
+│   └── LogoutServlet.java
 │
 ├── WebContent/
-│ ├── login.jsp
-│ ├── EmployeeDashboard.jsp
-│ ├── CustomerDashboard.jsp
-│ ├── EditProfile.jsp
-│ ├── EditPassword.jsp
-│ ├── deposit.jsp
-│ ├── withdraw.jsp
-│ ├── statement.jsp
-│ └── assets/
-│ ├── css/
-│ ├── js/
-│ └── images/
+│   ├── login.jsp
+│   ├── EmployeeDashboard.jsp
+│   ├── CustomerDashboard.jsp
+│   ├── EditProfile.jsp
+│   ├── EditPassword.jsp
+│   ├── deposit.jsp
+│   ├── withdraw.jsp
+│   ├── statement.jsp
+│   │
+│   └── assets/
+│       ├── css/
+│       ├── js/
+│       └── images/
 │
-└── WEB-INF/web.xml
+└── WEB-INF/
+    └── web.xml
 
 ---
 
