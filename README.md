@@ -356,12 +356,3 @@ Vamshi Prasad Goteti
 
 ---
 
-✅ **How to use:**
-1. Copy everything between the triple backticks (` ```markdown ... ``` `).  
-2. Paste into a file named `README.md` in your project root.  
-3. Commit and push to GitHub.  
-4. GitHub will render it beautifully with headings, tables, and mermaid diagrams.  
-
-Would you like me to now generate the **SQL schema file (`bankdb.sql`)** that matches all the tables and relationships in this README?
-
-
